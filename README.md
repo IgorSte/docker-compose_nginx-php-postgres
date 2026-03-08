@@ -1,4 +1,4 @@
-# docker-php-nginx-postgres-composer
+# docker-compose_nginx-php-postgres
 Docker Compose configuration to run PHP 8.3 with Nginx, PHP-FPM, PostgreSQL 17.8 and Composer.
 
 ## Overview
